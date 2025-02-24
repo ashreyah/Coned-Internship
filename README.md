@@ -14,11 +14,6 @@ This repository contains all the project deliverables and time logs for my **Con
 **Time Logs** (Folder: `timelog/`)  
 - **Weekly Logs** – Documents tracking work done each week during the internship.  
 
-**Miscellaneous** (Folder: `misc/`)  
-- **Notes** – Additional project-related notes.  
-- **References** – Useful resources and materials.  
-
-
 ### Tracking Progress  
 - **Time logs** are updated weekly.  
 - **Project deliverables** are added as milestones are completed.  
