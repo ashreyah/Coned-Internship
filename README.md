@@ -23,6 +23,3 @@ This repository contains all the project deliverables and time logs for my **Con
 - **Time logs** are updated weekly.  
 - **Project deliverables** are added as milestones are completed.  
 - Regular **commits** ensure the latest work is documented.  
-
-
-Let me know if you want any changes! 🚀
